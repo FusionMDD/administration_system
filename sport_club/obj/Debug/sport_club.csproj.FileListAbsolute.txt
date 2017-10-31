@@ -1,0 +1,95 @@
+D:\ShakunC#\sport_club\sport_club\bin\Debug\sport_club.exe.config
+D:\ShakunC#\sport_club\sport_club\bin\Debug\sport_club.exe
+D:\ShakunC#\sport_club\sport_club\bin\Debug\sport_club.pdb
+D:\ShakunC#\sport_club\sport_club\obj\Debug\sport_club.csprojResolveAssemblyReference.cache
+D:\ShakunC#\sport_club\sport_club\obj\Debug\sport_club.Properties.Resources.resources
+D:\ShakunC#\sport_club\sport_club\obj\Debug\sport_club.csproj.GenerateResource.Cache
+D:\ShakunC#\sport_club\sport_club\obj\Debug\sport_club.exe
+D:\ShakunC#\sport_club\sport_club\obj\Debug\sport_club.pdb
+D:\ShakunC#\sport_club\sport_club\obj\Debug\sport_club.Login.resources
+D:\ShakunC#\sport_club\sport_club\obj\Debug\sport_club.Menu.resources
+D:\ShakunC#\sport_club\sport_club\obj\Debug\sport_club.Abonement.resources
+D:\ShakunC#\sport_club\sport_club\obj\Debug\sport_club.add_inventory.resources
+D:\ShakunC#\sport_club\sport_club\obj\Debug\sport_club.add_pass.resources
+D:\ShakunC#\sport_club\sport_club\obj\Debug\sport_club.add_trainer.resources
+D:\ShakunC#\sport_club\sport_club\obj\Debug\sport_club.add_user.resources
+D:\ShakunC#\sport_club\sport_club\obj\Debug\sport_club.Edit_pass.resources
+D:\ShakunC#\sport_club\sport_club\obj\Debug\sport_club.edit_trainer.resources
+D:\ShakunC#\sport_club\sport_club\obj\Debug\sport_club.edit_user.resources
+D:\ShakunC#\sport_club\sport_club\obj\Debug\sport_club.Inventory_search.resources
+D:\ShakunC#\sport_club\sport_club\obj\Debug\sport_club.Inventory_view.resources
+D:\ShakunC#\sport_club\sport_club\obj\Debug\sport_club.Navantagh.resources
+D:\ShakunC#\sport_club\sport_club\obj\Debug\sport_club.pass_view.resources
+D:\ShakunC#\sport_club\sport_club\obj\Debug\sport_club.Trainer_search.resources
+D:\ShakunC#\sport_club\sport_club\obj\Debug\sport_club.Trainer_viev.resources
+D:\ShakunC#\sport_club\sport_club\obj\Debug\sport_club.Training_view.resources
+D:\ShakunC#\sport_club\sport_club\obj\Debug\sport_club.User_search.resources
+D:\ShakunC#\sport_club\sport_club\obj\Debug\sport_club.User_view.resources
+D:\sport_club(copy)\sport_club\bin\Debug\sport_club.exe.config
+D:\sport_club(copy)\sport_club\obj\Debug\sport_club.exe
+D:\sport_club(copy)\sport_club\obj\Debug\sport_club.pdb
+D:\sport_club(copy)\sport_club\bin\Debug\sport_club.exe
+D:\sport_club(copy)\sport_club\bin\Debug\sport_club.pdb
+D:\sport_club(copy)\sport_club\obj\Debug\sport_club.Abonement.resources
+D:\sport_club(copy)\sport_club\obj\Debug\sport_club.add_inventory.resources
+D:\sport_club(copy)\sport_club\obj\Debug\sport_club.add_pass.resources
+D:\sport_club(copy)\sport_club\obj\Debug\sport_club.add_trainer.resources
+D:\sport_club(copy)\sport_club\obj\Debug\sport_club.add_user.resources
+D:\sport_club(copy)\sport_club\obj\Debug\sport_club.edit_inventory.resources
+D:\sport_club(copy)\sport_club\obj\Debug\sport_club.Edit_pass.resources
+D:\sport_club(copy)\sport_club\obj\Debug\sport_club.edit_trainer.resources
+D:\sport_club(copy)\sport_club\obj\Debug\sport_club.edit_user.resources
+D:\sport_club(copy)\sport_club\obj\Debug\sport_club.Inventory_search.resources
+D:\sport_club(copy)\sport_club\obj\Debug\sport_club.Inventory_view.resources
+D:\sport_club(copy)\sport_club\obj\Debug\sport_club.Login.resources
+D:\sport_club(copy)\sport_club\obj\Debug\sport_club.Menu.resources
+D:\sport_club(copy)\sport_club\obj\Debug\sport_club.Navantagh.resources
+D:\sport_club(copy)\sport_club\obj\Debug\sport_club.pass_view.resources
+D:\sport_club(copy)\sport_club\obj\Debug\sport_club.Properties.Resources.resources
+D:\sport_club(copy)\sport_club\obj\Debug\sport_club.Trainer_search.resources
+D:\sport_club(copy)\sport_club\obj\Debug\sport_club.Trainer_viev.resources
+D:\sport_club(copy)\sport_club\obj\Debug\sport_club.Training_view.resources
+D:\sport_club(copy)\sport_club\obj\Debug\sport_club.User_search.resources
+D:\sport_club(copy)\sport_club\obj\Debug\sport_club.User_view.resources
+D:\sport_club(copy)\sport_club\obj\Debug\sport_club.csproj.GenerateResource.Cache
+D:\sport_club(copy)\sport_club\obj\Debug\sport_club.csprojResolveAssemblyReference.cache
+D:\sport_club(copy)\sport_club\obj\Debug\sport_club.add_training.resources
+D:\sport_club(copy)\sport_club\obj\Debug\sport_club.edit_training.resources
+D:\sport_club(copy)\sport_club\obj\Debug\sport_club.search_training.resources
+D:\sport_club(copy) - Copy2\sport_club\bin\Debug\sport_club.exe.config
+D:\sport_club(copy) - Copy2\sport_club\obj\Debug\sport_club.exe
+D:\sport_club(copy) - Copy2\sport_club\obj\Debug\sport_club.pdb
+D:\sport_club(copy) - Copy2\sport_club\bin\Debug\sport_club.exe
+D:\sport_club(copy) - Copy2\sport_club\bin\Debug\sport_club.pdb
+D:\sport_club(copy) - Copy2\sport_club\obj\Debug\sport_club.csprojResolveAssemblyReference.cache
+D:\sport_club(copy) - Copy2\sport_club\obj\Debug\sport_club.Abonement.resources
+D:\sport_club(copy) - Copy2\sport_club\obj\Debug\sport_club.add_inventory.resources
+D:\sport_club(copy) - Copy2\sport_club\obj\Debug\sport_club.add_pass.resources
+D:\sport_club(copy) - Copy2\sport_club\obj\Debug\sport_club.add_trainer.resources
+D:\sport_club(copy) - Copy2\sport_club\obj\Debug\sport_club.add_training.resources
+D:\sport_club(copy) - Copy2\sport_club\obj\Debug\sport_club.add_user.resources
+D:\sport_club(copy) - Copy2\sport_club\obj\Debug\sport_club.edit_inventory.resources
+D:\sport_club(copy) - Copy2\sport_club\obj\Debug\sport_club.Edit_pass.resources
+D:\sport_club(copy) - Copy2\sport_club\obj\Debug\sport_club.edit_trainer.resources
+D:\sport_club(copy) - Copy2\sport_club\obj\Debug\sport_club.edit_training.resources
+D:\sport_club(copy) - Copy2\sport_club\obj\Debug\sport_club.edit_user.resources
+D:\sport_club(copy) - Copy2\sport_club\obj\Debug\sport_club.Inventory_search.resources
+D:\sport_club(copy) - Copy2\sport_club\obj\Debug\sport_club.Inventory_view.resources
+D:\sport_club(copy) - Copy2\sport_club\obj\Debug\sport_club.Login.resources
+D:\sport_club(copy) - Copy2\sport_club\obj\Debug\sport_club.Menu.resources
+D:\sport_club(copy) - Copy2\sport_club\obj\Debug\sport_club.Navantagh.resources
+D:\sport_club(copy) - Copy2\sport_club\obj\Debug\sport_club.pass_view.resources
+D:\sport_club(copy) - Copy2\sport_club\obj\Debug\sport_club.Properties.Resources.resources
+D:\sport_club(copy) - Copy2\sport_club\obj\Debug\sport_club.search_training.resources
+D:\sport_club(copy) - Copy2\sport_club\obj\Debug\sport_club.Trainer_search.resources
+D:\sport_club(copy) - Copy2\sport_club\obj\Debug\sport_club.Trainer_viev.resources
+D:\sport_club(copy) - Copy2\sport_club\obj\Debug\sport_club.Training_view.resources
+D:\sport_club(copy) - Copy2\sport_club\obj\Debug\sport_club.User_search.resources
+D:\sport_club(copy) - Copy2\sport_club\obj\Debug\sport_club.User_view.resources
+D:\sport_club(copy) - Copy2\sport_club\obj\Debug\sport_club.csproj.GenerateResource.Cache
+D:\ShakunC#\sport_club\sport_club\obj\Debug\sport_club.add_training.resources
+D:\ShakunC#\sport_club\sport_club\obj\Debug\sport_club.edit_training.resources
+D:\ShakunC#\sport_club\sport_club\obj\Debug\sport_club.search_training.resources
+D:\ShakunC#\sport_club\sport_club\obj\Debug\sport_club.edit_inv.resources
+D:\ShakunC#\sport_club\sport_club\obj\Debug\sport_club.Log.resources
+D:\ShakunC#\sport_club\sport_club\obj\Debug\sport_club.csproj.CoreCompileInputs.cache
